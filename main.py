@@ -22,5 +22,5 @@ if __name__ == '__main__':
     list_dictionary={0:10,1:"число",2:4,3:9}
 
     print(dictionary["car"])
-
+#sep=" ' разделитель
 # See PyCharm help at https://www.jetbrains.com/help/pycharm/
