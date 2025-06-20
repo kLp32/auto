@@ -12,6 +12,15 @@ def print_hi(name):
 
 # Press the green button in the gutter to run the script.
 if __name__ == '__main__':
-    print_hi('PyCharm')
+    #print_hi('PyCharm')
+    number=100 #integer
+    float_number=10.5 #float
+    text='текст'
+
+    values=[10,24,43,1]
+    dictionary={"car":"машина","dog":"собака"}
+    list_dictionary={0:10,1:"число",2:4,3:9}
+
+    print(dictionary["car"])
 
 # See PyCharm help at https://www.jetbrains.com/help/pycharm/
